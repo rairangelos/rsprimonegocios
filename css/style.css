@@ -1,0 +1,111 @@
+/*Utilidades*/
+.oculta {font-size: 0px; margin: 0px; padding: 0px;}
+img.logo{width: 36px;margin-top: 4px;margin-right: 10px;}
+.clear{clear: both;}
+.divider{background: url("http://localhost:8080/semear/img/divider.png"); width: 162px; margin: 0px auto; padding: 7px; background-repeat: no-repeat;}
+.title{text-transform: uppercase;color: #22295d;font-weight: bold;}
+.title2{}
+.descricao{color: #000; line-height: 28px; margin: 5px 0px 26px 0px; font-weight: bold;}
+.descricao1{color:#656060; line-height: 28px; margin: 5px 0px 26px 0px; font-weight: bold; font-size: 12px;}
+.descricao2{color: #333;line-height: 30px;margin: 50px 0px 26px 0px;font-size: 18px;padding: 0px 70px 0px 0px;}
+.img-sobre{width: 181px;}
+.img-metodo{width: 150px;}
+.img-objetivo{/* width: 224px; */height: 109px;margin-top: 93px;}
+.fotos{margin: 0px 90px;}
+.carousel-slide{padding: 40px 0px;}
+.seta{padding: 0px 15px}
+.config_cola{padding: 0px 0px 0px 0px; float: left;}
+.preencher{padding: 7px 20px 0px 20px; height: 60px;}
+
+/*Backgrouds Parallax*/
+.background-parallax-slide{background: url("../img/logistica.jpg"); background-attachment: fixed;}
+
+/*Backgrounds Colors*/
+.metodo {background-color: rgba(22, 183, 220, 0.72);}
+.sobre {background-color: #fff}
+.bground{background-color: #22295d9e;}
+
+
+/*Colors*/
+.color-white{color: #fff;}
+.color-black{color: #000;}
+.color-title{color: #ffffff;font-weight: bolder;}
+
+
+/*Resets*/
+
+
+/*Fonts*/
+
+
+/*Btns*/
+.btn-saiba-mais{color: #FFF; background-color: #E8B403; padding: 10px 24px; border-radius: 4px; font-size: 16px; text-transform: uppercase;}
+.btn-saiba-mais:hover{color: #E8B403; background-color: #FFF; text-decoration: none;}
+
+/*Padding*/
+.padding-10{padding: 10px 0px;}
+.padding-20{padding: 20px 0px;}
+.padding-30{padding: 30px 0px;}
+.padding-40{padding: 40px 0px;}
+.padding-50{padding: 50px 0px;}
+.padding-60{padding: 60px 0px;}
+.padding-70{padding: 70px 0px;}
+.padding-80{padding: 80px 0px;}
+
+/*Header*/
+.header{    background-color: #fff;float: left;width: 100%;padding: 5px;}
+.logo{float: left;margin-left: 15px;}
+.logo1{width: 62px; float: left;}
+.text-logo1{float: left;font-size: 27px;margin-top: 30px;margin-right: 6px;color: rgba(7, 35, 86, 0.75);font-weight: bolder;}
+.text-logo2{float: left;font-size: 27px;margin-top: 30px;color: #16b7dc;font-weight: bolder;}
+ul.menu{list-style: none;float: right;padding: 15px;margin-top: 19px;}
+ul.menu li{display: inline;}
+ul.menu li a{margin: 30px;color: rgba(7, 35, 86, 0.75);font-weight: bold;font-size: 14px;}
+ul.menu li a:hover{color: #16b7dc; text-decoration: none;}
+
+/*Slide*/
+.slide{padding: 260px 0px;}
+.title-slide{font-size: 40px;font-weight: bold;margin-bottom: 31px;}
+.descricao-slide{font-size: 28px; margin-bottom: 30px;}
+
+/*Sobre*/
+.detalhe-sobre{margin-top: 0px;height:;}
+.title-about{font-size: 25px;font-weight: bold;color: #000;}
+.about{color: #656060;font-size: 13px; margin-top: 5px; font-weight: bold;}
+.missao_valor{
+    font-size: 18px;
+    font-weight: normal;
+    width: auto;
+    height: auto;
+}
+
+/*Metodologia*/
+.about1{font-weight: bold; color: white;}
+.title-about1{text-transform: uppercase;color: #ffffff;font-weight: bold;}
+.texto{}
+
+/*Principais Clientes*/
+.title-about2{text-transform: uppercase;color: #22295d;font-weight: bold;}
+.vda{
+    background-color: #080b27;
+    width: auto;
+    height: auto;
+    margin-top: 120px;
+}
+.brida{
+    width: auto;
+    height: auto;
+    margin-top: 120px;
+}
+.njg{
+    width: 150px;
+    height: 60px;
+    margin-top: 114px;
+}
+
+/*LocalizaÃƒÂ§ÃƒÂ£o*/
+.localiza{margin-bottom: 45px;}
+
+/*RodapÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©*/
+.rodape1{background-color: rgba(7, 35, 86, 0.75);}
+.rodape2{margin-top: 5px;color: #000;}
