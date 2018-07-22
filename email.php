@@ -10,8 +10,8 @@ $Vai 		= "Nome: $Nome\n\nE-mail: $Email\n\nTelefone: $Fone\n\nMensagem: $Mensage
 
 require_once("phpmailer/class.phpmailer.php");
 
-define('GUSER', 'contato@rsprimonegocios.com.br');	// <-- Insira aqui o seu GMail
-define('GPWD', 'Ybj72lCeP6f8');		// <-- Insira aqui a senha do seu GMail
+define('GUSER', 'xxxxxxxxxxxxxxxxxxxxxxxx');	// <-- Insira aqui o seu GMail
+define('GPWD', 'xxxxxxxxx');		// <-- Insira aqui a senha do seu GMail
 
 function smtpmailer($para, $de, $de_nome, $assunto, $corpo) { 
 	global $error;
